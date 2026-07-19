@@ -1,8 +1,8 @@
 # Apple_Product_Analysis
-Predicting Apple resale prices using Random Forest and an adapted RFM framework for products.
+Predicting Apple sale prices using Random Forest and an adapted RFM framework for products.
 
 
-This project develops a Random Forest regression model to predict the resale prices of Apple devices by adapting the traditional RFM (Recency, Frequency, Monetary) framework from customer analytics to product analytics.
+This project develops a Random Forest regression model to predict the sale prices of Apple devices by adapting the traditional RFM (Recency, Frequency, Monetary) framework from customer analytics to product analytics.
 
 The adapted RFM features are defined as:
 
@@ -15,7 +15,7 @@ The project compares two feature engineering approaches:
 Continuous RFM variables (Days Since Launch, Listing Frequency, Launch Price)
 Quartile-based RFM scores (R, F, and M scores)
 
-The objective is to evaluate whether continuous feature representations or discretized RFM scores provide better predictive performance for resale price estimation.
+The objective is to evaluate whether continuous feature representations or discretized RFM scores provide better predictive performance for sale price estimation.
 
 The notebook includes:
 
